@@ -4,7 +4,9 @@ This includes:
 
 1. creating line graph.         plt.plot(x,y)
 
-2. bar graph or histograms         plt.bar(x,y)
+2. bar graph          plt.bar(x,y)
+
+3. For histogram we use plt.hist(x) where x is the univariate variable to work on
 
 3. scatter plots        plt.scatter(x,y)
 
